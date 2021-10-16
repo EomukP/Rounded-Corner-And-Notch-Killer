@@ -1,6 +1,6 @@
 # Rounded Corner And Notch Killer
 
-This magisk module provide you a option for hide your devices display cutout(Rounded Corner And Notch).
+This magisk module provide you a option for remove your devices display cutout(Rounded Corner And Notch).
 
 Support Android P+.
 
